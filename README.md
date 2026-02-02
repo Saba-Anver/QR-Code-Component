@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img width="1495" height="843" alt="image" src="https://github.com/user-attachments/assets/7be4cdc7-5b1b-4b03-83c3-6912ad9d5613" />
+<img width="1818" height="800" alt="image" src="https://github.com/user-attachments/assets/9eeedea6-22c7-4559-8dc8-18ca43cbda4e" />
 
 
 ### Link
